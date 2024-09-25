@@ -25,6 +25,8 @@
         <version>999.0.0-SNAPSHOT</version>
     </parent>
 
+
+    
     <name>Keycloak Administration UI</name>
     <description>Keycloak Administration UI</description>
 
